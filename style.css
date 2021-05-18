@@ -1,0 +1,77 @@
+*{font-family:'Times New Roman', Times, serif
+
+} 
+.carta{
+    position:justify;
+    font-size: 22pt;
+    border: 2px solid;
+    background: rgb(234, 241, 255);
+    width: 400px 400px;
+    padding: 40px 40px;
+    margin: 10px; 
+    line-height: 25px;
+}
+main{
+    background: rgb(119, 196, 231);
+    padding: 40px 30px;
+    margin-top: 100px;
+    margin-bottom: 30px;
+    border-radius: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.data{
+    display: right;
+    justify-content: right;
+    font-size: 22pt;
+    margin-bottom: 40px;
+}
+
+.saudação{
+    text-align: left;
+    font-size: 18pt;
+    margin-left: 10px;
+}
+.assinatura{
+    text-align: left;
+    font-size: 18pt;
+    margin-left: 10px;
+}
+.expressão{
+    text-align: left;
+    font-size: 18pt;
+    margin-left: 10px;
+}
+
+div{
+    margin: 10px;
+}
+div{
+    margin: 10px;
+}
+h6{
+    font-size: 14px;
+}
+a{
+    font-size: 16px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+a{
+    text-decoration: none;
+    font-size: larger;
+    background-color: rgb(121, 97, 228);
+    color: rgb(255, 248, 248);
+    border: 1px solid rgb(60, 26, 209); 
+    border-radius: 4px;
+    padding: 10px 20px;
+    margin-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 150;
+
+}
+a:hover{
+    background-color: white;
+    color:turquoise;
+}
